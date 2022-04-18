@@ -1,0 +1,34 @@
+[1mdiff --git a/cikarma.py b/cikarma.py[m
+[1mindex 32957e1..e69de29 100644[m
+[1m--- a/cikarma.py[m
+[1m+++ b/cikarma.py[m
+[36m@@ -1,2 +0,0 @@[m
+[31m-def cikarma(x,y):[m
+[31m-         return x - y [m
+\ No newline at end of file[m
+[1mdiff --git a/main.py b/main.py[m
+[1mindex a604dd9..7d38dae 100644[m
+[1m--- a/main.py[m
+[1m+++ b/main.py[m
+[36m@@ -1,5 +1,5 @@[m
+[31m-def topla(x,y):[m
+[31m-         return x + y[m
+[32m+[m[32mdef carpma(x,y):[m
+[32m+[m[32m         return x * y[m
+ [m
+ def merhaba():[m
+          print("Hello")[m
+\ No newline at end of file[m
+[1mdiff --git a/main.py.bak b/main.py.bak[m
+[1mindex fe05457..a604dd9 100644[m
+[1m--- a/main.py.bak[m
+[1m+++ b/main.py.bak[m
+[36m@@ -1,3 +1,5 @@[m
+ def topla(x,y):[m
+          return x + y[m
+[31m-         [m
+\ No newline at end of file[m
+[32m+[m
+[32m+[m[32mdef merhaba():[m
+[32m+[m[32m         print("Hello")[m
+\ No newline at end of file[m
